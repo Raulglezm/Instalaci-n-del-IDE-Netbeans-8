@@ -1,4 +1,4 @@
-# Instalación del IDE Netbeans-8
+# Instalación del IDE NetBeans-8
 
 NetBeans es un IDE popular para desarrollar aplicaciones Java.
 
