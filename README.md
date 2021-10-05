@@ -30,3 +30,7 @@ chmod +x jdk-8u111-nb-8_2-linux-x64.sh
 
 <img src="paso2.png">
 
+###### 5 ➤ Accionaremos next y finalizaremos la instalción
+
+
+<img src="ide3.png">
