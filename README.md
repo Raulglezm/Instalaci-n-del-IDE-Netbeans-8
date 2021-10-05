@@ -20,5 +20,13 @@ java -version
 ↳ https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html
 
 ###### 3 ➤ Posteriormenente desde la terminal accederemos a la carpeta donde tenemos instalado el NetBeans IDE 
+###### 4 ↳ Y añadiremos los comandos
+```bash
 
+chmod +x jdk-8u111-nb-8_2-linux-x64.sh
+./jdk-8u111-nb-8_2-linux-x64.sh
+
+```
+
+<img src="paso2.png">
 
